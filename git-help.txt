@@ -1,0 +1,21 @@
+ Add a file to GitHub: 
+   Edit file , save changes
+# git add .
+# git commit -m "message about commit"
+# git remote -v
+# git push -u origin main
+
+ # Correct path
+# make sure you are in correct file / directory first
+
+#.  git remote -v
+
+# A remote in Git is a common repository that all
+ team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server.
+
+# git push -u origin main
+# 
+ # git push origin are general commands used to push a
+ change from the local repository to the remote repository 
+known as origin. However, if you do not indicate which
+ branch, Git will push the current branch, the branch you are currently working on to the respective branch on the 

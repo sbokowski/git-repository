@@ -1,6 +1,0 @@
- Add a file to GitHub: 
-   Edit file , save changes
-# git add .
-# git commit -m "message about commit"
-# git remote -v
-# git push -u origin main
